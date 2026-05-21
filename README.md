@@ -17,7 +17,7 @@ GoFood sebagai platform food delivery terbesar di Indonesia menyediakan ribuan p
 
 ## Dashboard Preview
 
-> 🔗 **[Lihat Dashboard Interaktif di Tableau Public]([https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk](https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk/AnalisisTrenKategoriProdukGoFoodIndonesia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[Lihat Dashboard di Tableau Public](https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk/AnalisisTrenKategoriProdukGoFoodIndonesia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 Dashboard terdiri dari 3 visualisasi utama:
 - **Jumlah Produk per Kategori** — Top 21 kategori berdasarkan jumlah produk
