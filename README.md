@@ -1,10 +1,10 @@
-# 🍜 Analisis Tren Kategori Produk GoFood Indonesia
+# Analisis Tren Kategori Produk GoFood Indonesia
 
 > Analisis mendalam terhadap 39.648 produk dari 687 merchant GoFood di 3 kota besar Indonesia — Jakarta, Medan, dan Surabaya — menggunakan Python dan Tableau.
 
 ---
 
-## 🎯 Latar Belakang & Pernyataan Masalah
+## Latar Belakang & Pernyataan Masalah
 
 GoFood sebagai platform food delivery terbesar di Indonesia menyediakan ribuan pilihan makanan dan minuman dari berbagai kategori. Proyek ini bertujuan menjawab pertanyaan bisnis berikut:
 
@@ -15,9 +15,9 @@ GoFood sebagai platform food delivery terbesar di Indonesia menyediakan ribuan p
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-> 🔗 **[Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk)**
+> 🔗 **[Lihat Dashboard Interaktif di Tableau Public]([https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk](https://public.tableau.com/views/GoFoodIndonesia-AnalisisTrenKategoriProduk/AnalisisTrenKategoriProdukGoFoodIndonesia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 Dashboard terdiri dari 3 visualisasi utama:
 - **Jumlah Produk per Kategori** — Top 21 kategori berdasarkan jumlah produk
@@ -26,7 +26,7 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 | Keterangan | Detail |
 |---|---|
@@ -53,7 +53,7 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 🛠️ Tools & Teknologi
+## Tools & Teknologi
 
 | Tool | Kegunaan |
 |---|---|
@@ -64,7 +64,7 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 🔍 Metodologi
+## Metodologi
 
 ### 1. Pembersihan Data (Python — pandas)
 - Menghapus 5.547 baris duplikat
@@ -92,7 +92,7 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 💡 Temuan Utama
+## Temuan Utama
 
 | # | Temuan | Dampak |
 |---|---|---|
@@ -106,7 +106,7 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 💼 Rekomendasi Bisnis
+## Rekomendasi Bisnis
 
 1. **Perkuat kategori Minuman** — volume tertinggi menunjukkan demand yang besar, cocok untuk campaign promosi rutin
 2. **Optimalkan strategi diskon** — hanya 6.5% produk diskon, ada peluang besar untuk menarik pelanggan baru dengan promo kategori tertentu
@@ -115,24 +115,24 @@ Dashboard terdiri dari 3 visualisasi utama:
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 gofood-category-analysis/
 │
-├── gofood_analysis.ipynb          # Notebook Python lengkap
-├── gofood_dataset.csv             # Dataset original dari Kaggle
-├── gofood_cleaned.csv             # Data setelah cleaning
-├── gofood_summary_tableau.csv     # Data agregasi untuk Tableau
+├── gofood_analysis.ipynb          
+├── gofood_dataset.csv             
+├── gofood_cleaned.csv             
+├── gofood_summary_tableau.csv    
 │
-├── viz_01_kategori_produk.png     # Chart: Top kategori & per kota
-├── viz_02_harga_kategori.png      # Chart: Distribusi harga
-└── viz_03_diskon.png              # Chart: Analisis diskon
+├── viz_01_kategori_produk.png    
+├── viz_02_harga_kategori.png    
+└── viz_03_diskon.png     
 ```
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone repository ini
    ```bash
@@ -157,14 +157,12 @@ gofood-category-analysis/
 
 ---
 
-## 👤 Tentang Saya
+## Tentang Saya
 
-**Meisya Salsabila Indrijo Putri** — Data Analyst | UI/UX Designer
+**Meisya Salsabila I.P.** 
 
 - 📧 meisyasalsa7@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/meisya-putri)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/meisya.putri)
-- 🌐 [Portofolio](https://meisyalsabila7.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/meisyasalsabila/)
 
 ---
 
